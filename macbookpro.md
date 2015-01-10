@@ -9,11 +9,19 @@ Macbook Pro
 
 ##### Specs
 
-* CPU: Intel Core i5 3210M 2.5GHz (Turbo Boost 3.2Ghz)
-* RAM: 16Gb 1600MHz
-* Hard Drive: Samsung 840 EVO 250Gb
+* CPU: Intel Core i5 3210M 2.5GHz (Turbo Boost 3.2GHz)
+* RAM: 16GB 1600MHz
+* Hard Drive: Samsung 840 EVO 250GB
 * Screen: 13-inch, 1280*800
-* OS: OS X 10.9.5 Mavericks
+
+##### OS Setup
+
+* OS X 10.10 (Yosemite)
+* VMware running:
+  * Ubuntu 14.04
+  * Fedora 21
+  * CentOS 6.5
+
 
 ##### Experience
 
@@ -23,5 +31,6 @@ So far, it's great working on such a machine.
 Second thoughts: 
 * Satisfactory battery life
 * Expandability (room for two hard drives)
-* Screen Resolution is seems behind.
+* Screen Resolution seems to be behind the competition.
 * Had a problem with main SATA cable
+
