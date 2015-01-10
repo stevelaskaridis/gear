@@ -23,5 +23,13 @@ So far, it's great working on such a machine.
 Second thoughts: 
 * Satisfactory battery life
 * Expandability (room for two hard drives)
-* Screen Resolution is seems behind.
+* Screen Resolution seems to be behind the competition.
 * Had a problem with main SATA cable
+
+##### OS Setup
+
+* OS X 10.10 (Yosemite)
+* VMware running:
+  * Ubuntu 14.04
+  * Fedora 21
+  * CentOS 6.5
