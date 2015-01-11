@@ -34,3 +34,10 @@ Second thoughts:
 * Screen Resolution seems to be behind the competition.
 * Had a problem with main SATA cable
 
+##### OS Setup
+
+* OS X 10.10 (Yosemite)
+* VMware running:
+  * Ubuntu 14.04
+  * Fedora 21
+  * CentOS 6.5
