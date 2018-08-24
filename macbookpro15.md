@@ -16,11 +16,7 @@ Macbook Pro
 
 ##### OS Setup
 
-* OS X 10.11.4 (El Capitan)
-* VMware running:
-  * Fedora 23
-  * CoreOS for containers
-  * Vagrant for all sort of things
+* <strike>OS X 10.11.4 (El Capitan)</strike> Ubuntu 18.04 LTS
 
 ##### Experience
 
@@ -31,3 +27,5 @@ do work from anywhere without carrying your desktop.
 However, few things that I miss:
 * An additional USB port would be nice
 * Some extra space on the SSD (256GB is borderline ok for now)
+
+**Update**: The screen has started to present artefacts under OS X. I have opened a [thread](https://discussions.apple.com/message/33728211) following up on the issue. Since the problem is not present under other OSs, I am using it with Ubuntu for now.
